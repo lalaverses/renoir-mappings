@@ -1,9 +1,12 @@
 {
+	"version": "755-756",
+	
 	"chat-types": {
 		"0": "minecraft:chat",
 		"1": "minecraft:system",
 		"2": "minecraft:game_info"
 	},
+	
 	"blockstates": {
 		"0": "minecraft:air",
 		"1": "minecraft:stone",

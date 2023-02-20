@@ -1,24 +1,12 @@
 {
+	"version": "735-736",
+	
 	"chat-types": {
 		"0": "minecraft:chat",
 		"1": "minecraft:system",
 		"2": "minecraft:game_info"
 	},
-	"V_1_19": {
-		"chat": 0,
-		"system": 1,
-		"game_info": 2,
-		"say_command": 3,
-		"msg_command": 4,
-		"team_msg_command": 5,
-		"emote_command": 6,
-		"raw": 7
-	},
-	"V_1_18_2": {
-		"chat": 0,
-		"system": 1,
-		"game_info": 2
-	},
+	
 	"blockstates": {
 		"0": "minecraft:air",
 		"1": "minecraft:stone",

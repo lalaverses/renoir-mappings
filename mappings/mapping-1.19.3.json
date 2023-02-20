@@ -1,4 +1,6 @@
 {
+	"version": "761",
+	
 	"chat-types": {
 		"0": "minecraft:chat",
 		"1": "minecraft:say_command",
@@ -9,6 +11,7 @@
 		"6": "minecraft:emote_command",
 		"7": "minecraft:raw"
 	},
+	
 	"blockstates": {
 		"0": "minecraft:air",
 		"1": "minecraft:stone",
